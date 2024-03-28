@@ -63,7 +63,7 @@ start www.faxvin.com/license-plate-lookup/result?plate=%plate%&state=%s%
 start www.findbyplate.com/US/%s%/%plate%/
 goto osintstart
 
-
+-
 :osintE
 cls 
 set /p vin=enter vin >
